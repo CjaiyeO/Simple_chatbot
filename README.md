@@ -5,4 +5,5 @@ This Python code demonstrates how to use the OpenAI API for building your own ch
 
 
 
+
 Can search one question at a time and the question need to be in 'completion' object
