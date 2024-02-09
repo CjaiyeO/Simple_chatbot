@@ -1,7 +1,7 @@
 import openai
 
 #before runing enter your api key
-openai.api_key = "sk-"
+openai.api_key = "YOUR API KEY"
 
 question = input("How can I help you today?\n")
 
