@@ -7,6 +7,20 @@
 # Prerequisites
  - Python 3.x
  - openai Python library
+
+# Usage
+ - Set your OpenAI API key.
+ - Run the script and input your question or prompt when prompted.
+ - The chatbot will generate a response based on your input using the GPT-3.5 Turbo model.
+
+
+
+# Parameters
+ - engine: Specifies the GPT model to use. In this script, the "gpt-3.5-turbo" engine is used.
+ - temperature: Controls the randomness of the generated response. Values closer to 0 result in more logical responses, while higher values lead to more creative responses.
+ - max_tokens: Sets the maximum number of words in the generated response.
+
+
   
 # Installation
  - Install the openai Python library using pip ("pip install openai" in cmd).
