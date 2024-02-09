@@ -9,7 +9,7 @@
  - openai Python library
   
 # Installation
- - Install the openai Python library using pip (pip install openai).
+ - Install the openai Python library using pip ("pip install openai" in cmd).
  - Obtain an API key from OpenAI. You can sign up for an account and generate an API key on the OpenAI platform.
 
 # References
